@@ -15,7 +15,6 @@ public class AnswerListView : MonoBehaviour
     {
         if (!File.Exists(_path))
         {
-            Debug.LogWarning($"Файл сохраниения не найден по пути: {_path}");
             return;   
         }
 

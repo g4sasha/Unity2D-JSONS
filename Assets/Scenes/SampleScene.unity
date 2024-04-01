@@ -415,7 +415,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 20, y: -17}
+  m_SizeDelta: {x: 20, y: 1.73}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &444173882
 MonoBehaviour:
@@ -1845,7 +1845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fafaa279955d96499ed18f7421e07fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _template: {fileID: 11400000, guid: 85a3559f1fdec9d44b016d8b34212e8d, type: 2}
+  _template: {fileID: 11400000, guid: 319ee0265ebeed74e8c97502590acdd8, type: 2}
   _questionPrefab: {fileID: 507914338980216400, guid: f03a2c335847b5c43971ffdbcffa8429, type: 3}
   _transform: {fileID: 2048200266}
   _sendButton: {fileID: 1073376468}
